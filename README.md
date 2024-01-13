@@ -1,7 +1,4 @@
-
-
-<h1 align="center">Hi 👋, I'm derick!</h1>
-<h3 align="center">a college student learning how to code</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=1FF7A9&background=69574D00&center=true&vCenter=true&random=false&width=1000&lines=hi!+i+am+derick!" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
