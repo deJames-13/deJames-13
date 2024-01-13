@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif" alt='the stars are falling'>
+
 <h1 align="center">Hi 👋, I'm derick!</h1>
 <h3 align="center">a college student learning how to code</h3>
 
