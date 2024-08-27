@@ -1,4 +1,4 @@
-<p align="center">
+mo<p align="center">
 <img src="https://github.com/deJames-13/deJames-13/assets/109223910/2d4cb579-2833-48ef-bae7-4acc42f6c70d" alt="Your Image Description">
 </p>
 
@@ -27,7 +27,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deJames-13&icon=0&color=0)](https://visitcount.itsvg.in).
-........
+.........
 
 -->
 
