@@ -18,7 +18,6 @@ Description=Constantly improving myself my le<div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I'm%20Derick&fontSize=48&fontColor=1e9be8&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 ```
-s
 
 ###
 
