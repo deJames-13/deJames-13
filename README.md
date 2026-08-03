@@ -8,7 +8,7 @@
 - 🖥 Aspiring Software Developer full of ideas
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Information Technology 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 Techonological 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 the Philippines - Taguig, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2022-2026
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
-- 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 <a href="https://archlinux.org/"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/arch.svg" alt="Arch Linux Logo" title="Arch Linux Logo" width="12"></a> btw
+- 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 <a href="https://archlinux.org/"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/arch.svg" alt="Arch Linux Logo" title="Arch Linux Logo" width="24"></a> btw
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ini
