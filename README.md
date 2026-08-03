@@ -24,8 +24,8 @@ Description=Constantly improving myself my learning and mastering docker as well
 ## 🔔 𝙼𝚢 Github Contributions
 ![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-contributions.svg)
 
-## 🔔 𝙼𝚢 Achievements
-![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-achievements.svg)
+<!-- ## 🔔 𝙼𝚢 Achievements
+![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-achievements.svg) -->
 
 <!-- ## 🔔 𝙼𝚢 Languages Activity
 ![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-languages.svg) -->
@@ -38,7 +38,7 @@ Reach me at the email provided in my github profile or portfolio and Follow my s
 <br />
 <a href="https://web.facebook.com/the2ndpercyfied"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/facebook.png" alt="Facebook Logo" title="Arch Linux Logo" width="24"></a>
 <a href="https://www.linkedin.com/in/derickjamesespinosa/"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/linkedin.png" alt="LinkedIn Logo" title="LinkedIn Logo" width="24"></a>
-<a href="mailto:derickjames@gmail.com"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/email.png" alt="Email Logo" title="Email Logo" width="24"></a>
+<a href="mailto:derickjames.espinosa@gmail.com"> <img src="https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/email.png" alt="Email Logo" title="Email Logo" width="24"></a>
 
 ###
 
