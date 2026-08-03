@@ -19,10 +19,10 @@ Description=Constantly improving myself my learning and mastering docker as well
 ###
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](/github-metrics.svg)
+![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-metrics.svg)
 
 ## 🔔 𝙼𝚢 Github Contributions
-![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-metrics.svg)
+![Metrics](https://github.com/deJames-13/deJames-13/blob/main/github-contributions.svg)
 
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
