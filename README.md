@@ -14,7 +14,21 @@
 ```ini
 [Learning DevOps Tools]
 Name=Docker
-Description=Constantly improving myself my learning and mastering docker as well as deploying web applications in it.s
+Description=Constantly improving myself my learning and mastering docker as well as deploying web applications in it.
 ```
+###
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+Reach me at the email provided in my github profile or portfolio and Follow my socials!
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=48&fontColor=1e9be8&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
 ###
