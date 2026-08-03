@@ -8,15 +8,13 @@
 - 🖥 Aspiring Software Developer full of ideas
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Information Technology 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 Techonological 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 the Philippines - Taguig, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2022-2026
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
-- 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [![Arch Linux Logo](https://raw.githubusercontent.com/deJames-13/deJames-13/master/socials/arch.svg "Arch Linux Logo")](https://archlinux.org/) btw
+- 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [![Arch Linux Logo](https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg "Arch Linux Logo")](https://archlinux.org/) btw
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ini
 [Learning DevOps Tools]
 Name=Docker
-Description=Constantly improving myself my le<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I'm%20Derick&fontSize=48&fontColor=1e9be8&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
+Description=Constantly improving myself my learning and mastering docker as well as deploying web applications in it.s
 ```
 
 ###
