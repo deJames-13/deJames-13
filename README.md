@@ -12,9 +12,9 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ini
-[Learning DevOps Tools]
-Name=Docker
-Description=Constantly improving myself my learning and mastering docker as well as deploying web applications in it.
+[projectx]
+Name=Projectx
+Description=A collection of apps built in fast-faced development
 ```
 ###
 
